@@ -8,9 +8,10 @@
 
 import sys
 import random
-import graph
+from graph import graph
 import argparse
 
+graph = graph()
 #========================================================================================================
 # PARAMETERS INITIALIZATION
 #========================================================================================================
